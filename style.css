@@ -1,0 +1,15 @@
+.one{
+    background: linear-gradient(35deg, #3d4b4b 70%, #703b3b 30%);
+  }
+  .question {
+    background-color: #d3d3d3;
+    
+  }
+  #resultParent {
+    display: none;
+  }
+  
+  .all{
+    margin-top: 100px;
+  }
+  
